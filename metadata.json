@@ -1,0 +1,7 @@
+{
+  "name": "Vita Mahjong - Katta Ekran",
+  "description": "Katta yozuvli va qulay Mahjong Solitaire o'yini, maxsus kattalar va kompyuter ekranlari uchun.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

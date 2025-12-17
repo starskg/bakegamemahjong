@@ -36,3 +36,6 @@ Loyihaning production versiyasini yaratish uchun:
 ```bash
 npm run build
 ```
+
+## qolganini o`rgatish shart emas deb xisoblayman 😁
+agarda vps vds server yoki shered xostingga yuklamoqchi bo`lsangiz build bo`lganda dist ➡️popkasin📁 qarang o`sha joydagi fayllarni sharedga tashlang ✅
